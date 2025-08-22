@@ -1,73 +1,74 @@
-# Welcome to your Lovable project
+# 🚨 SafeSurge AI – Team OG
 
-## Project info
+**CrowdShield for the Future**
+Built by **Team OG** 💎
 
-**URL**: https://lovable.dev/projects/4fc701d7-cedf-409b-9cf0-2e929cd8f3f8
+---
 
-## How can I edit this code?
+## 🌍 Problem
 
-There are several ways of editing your application.
+Every year, thousands of lives are lost during crowd surges, stampedes, and unsafe gatherings.
+Current monitoring systems are **reactive** instead of **preventive**, leaving people vulnerable.
 
-**Use Lovable**
+---
 
-Simply visit the [Lovable Project](https://lovable.dev/projects/4fc701d7-cedf-409b-9cf0-2e929cd8f3f8) and start prompting.
+## 💡 Our Solution
 
-Changes made via Lovable will be committed automatically to this repo.
+**SafeSurge AI** is an AI-powered **early warning and crowd safety assistant**.
+It analyzes **real-time crowd density, movement patterns, and noise levels** to:
 
-**Use your preferred IDE**
+* 🔴 Detect unsafe crowd build-up before disaster strikes.
+* 📢 Alert organizers & authorities with predictive warnings.
+* 🧑‍🤝‍🧑 Suggest evacuation paths & guide people safely.
 
-If you want to work locally using your own IDE, you can clone this repo and push changes. Pushed changes will also be reflected in Lovable.
+---
 
-The only requirement is having Node.js & npm installed - [install with nvm](https://github.com/nvm-sh/nvm#installing-and-updating)
+## ✨ Key Features
 
-Follow these steps:
+* 📊 **AI-based crowd density detection**
+* 🛰️ **Real-time monitoring dashboard**
+* 🔔 **Automated alerts & notifications**
+* 🌐 **Deployed as a web app (works anywhere)**
+* 🔒 **Scalable, lightweight, and privacy-first**
 
-```sh
-# Step 1: Clone the repository using the project's Git URL.
-git clone <YOUR_GIT_URL>
+---
 
-# Step 2: Navigate to the project directory.
-cd <YOUR_PROJECT_NAME>
+## 🚀 Live Demo
 
-# Step 3: Install the necessary dependencies.
-npm i
+👉 [Try SafeSurge AI here](https://team-og-safesurge.vercel.app)
+*(Replace this link with your Vercel deploy URL once ready)*
 
-# Step 4: Start the development server with auto-reloading and an instant preview.
-npm run dev
-```
+---
 
-**Edit a file directly in GitHub**
+## 🛠️ Tech Stack
 
-- Navigate to the desired file(s).
-- Click the "Edit" button (pencil icon) at the top right of the file view.
-- Make your changes and commit the changes.
+* ⚛️ React (Frontend)
+* 🤖 AI/ML Models for crowd safety detection
+* ☁️ Vercel (Deployment)
+* 📦 Node.js + APIs
 
-**Use GitHub Codespaces**
+---
 
-- Navigate to the main page of your repository.
-- Click on the "Code" button (green button) near the top right.
-- Select the "Codespaces" tab.
-- Click on "New codespace" to launch a new Codespace environment.
-- Edit files directly within the Codespace and commit and push your changes once you're done.
+## 👑 Team OG
 
-## What technologies are used for this project?
+* k.Shashank
 
-This project is built with:
+  K.Sai shoban 
+* S.Rohith
+* CH.Gokula naga sai
 
-- Vite
-- TypeScript
-- React
-- shadcn-ui
-- Tailwind CSS
+*(The Original Gangsters of innovation 💥)*
 
-## How can I deploy this project?
+---
 
-Simply open [Lovable](https://lovable.dev/projects/4fc701d7-cedf-409b-9cf0-2e929cd8f3f8) and click on Share -> Publish.
+## 📌 Future Scope
 
-## Can I connect a custom domain to my Lovable project?
+* Integrate **CCTV & drone video feeds** for AI analysis.
+* Partner with **event organizers & public safety departments**.
+* Mobile app with **offline safety alerts**.
 
-Yes, you can!
+---
 
-To connect a domain, navigate to Project > Settings > Domains and click Connect Domain.
+## 🙌 Acknowledgments
 
-Read more here: [Setting up a custom domain](https://docs.lovable.dev/tips-tricks/custom-domain#step-by-step-guide)
+Special thanks to **Hackathon OGs** and mentors for support.
